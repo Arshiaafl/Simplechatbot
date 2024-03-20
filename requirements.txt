@@ -12,6 +12,7 @@ h11
 huggingface-hub
 idna
 Jinja2
+torch --no-cache-dir
 MarkupSafe
 mpmath
 networkx
@@ -27,7 +28,6 @@ sniffio
 starlette
 sympy
 tokenizers
-torch
 tqdm
 transformers
 typing_extensions
